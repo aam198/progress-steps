@@ -31,7 +31,7 @@ body{
     justify-content: space-between;
     position: relative;
     margin-bottom: 30px;
-    width: 350px;
+    width: 450px;
     max-width: 100%;
 }
 
@@ -71,7 +71,7 @@ body{
     display:flex;
     justify-content: center;
     align-items: center;
-    border: 1px dashed #e0e0e0;
+    border: 3px dashed #e0e0e0;
     transition: .4s ease;
 }
 
